@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Chia Sẻ Kiến Thức Lập Trình - iHieu',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Kiến thức lập trình miễn phí, học lập trình miễn phí tại nhà. Dạy kèm website wordpress, dạy kèm quảng cáo Google, học SEO.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
