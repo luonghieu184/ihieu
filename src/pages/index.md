@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a consciencef
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Học Lập Trình Miễn Phí
+image: /img/lap-trinh-angular.jpg
+heading: Học Lập Trình Miễn Phí
+subheading: Chia sẻ kiến thức, kinh nghiệm lập trình.
 mainpitch:
   title: Why Kaldi
   description: >
